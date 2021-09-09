@@ -8,7 +8,7 @@ I am a **Full-stack Web Developer** as well as an **Avionics Engineer**. Coding 
 
 I've worked on a number of projects that include coding of microcontrollers during my bachelor's degree. For more information about my studies and my work you can look up my LinkedIn profile: https://www.linkedin.com/in/usmanfazal/
 
-You can contact me for work on my upwork account: https://www.upwork.com/freelancers/~01a764acd40ed5ca23
+You can contact me for work on my upwork account: https://www.upwork.com/freelancers/~01a764acd40ed5ca23?s=1110580755107926016
 
 ## Help
 
