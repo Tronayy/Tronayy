@@ -2,7 +2,7 @@
  
 Hi, Assalamu Alaikum (May peace be upon you) I’m @Tronayy. My name is Usman and I'm from Islamabad, Pakistan.
 
-I am a Full-stack Web Developer as well as an Avionics Engineer. Coding is my personal interest and I love the fact that this field has no boundaries. I strive to learn more and more.
+I am a **Full-stack Web Developer** as well as an **Avionics Engineer**. Coding is my personal interest and I love the fact that this field has no boundaries. I strive to learn more and more.
 
 ## Work and Education
 
