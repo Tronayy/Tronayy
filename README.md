@@ -3,8 +3,8 @@
 I love automating, scaling, and securing infrastructure.  
 
 💻 **Tech I Work With:**  
-- **Terraform, Ansible, Kubernetes, Docker, Python, OpenStack**  
-- **KYPO Cyber Range, KYPO deployment, OpenStack deployment**  
+- **Terraform, Ansible, Kubernetes, Docker, Python**  
+- **KYPO Cyber Range, Openstack**  
 
 🏆 **Achievements:**  
 - 🥇 1st place in **Cyber Command CTF**  
